@@ -1,0 +1,6 @@
+node_modules
+.next
+.env.local
+.env
+convex/_generated/*.js
+convex/_generated/*.d.ts
